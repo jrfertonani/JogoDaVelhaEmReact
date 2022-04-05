@@ -59,7 +59,6 @@ function App() {
       [ 1, 4, 7],
       [ 2, 5, 8],
 
-
     ];
 
     for (const line of victoryLines){
